@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/work/opsite/webroot'
+let g:netrw_dirhist_2='/home/work/opsite'
+let g:netrw_dirhist_3='/home/work/optools/optools'
+let g:netrw_dirhist_4='/home/work/optools/disk_mon'
+let g:netrw_dirhist_5='/home/work/optools/AutoRepair'
+let g:netrw_dirhist_6='/home/work/speed/daily_detail/table_first'
+let g:netrw_dirhist_7='/home/work/optools/chName'
